@@ -1,0 +1,22 @@
+---
+layout: layouts/base.html
+title: 'This is the Homepage banner'
+bannerContent: 'Here goes the content'
+pageId: 'home'
+triptychs:
+  - headline: 'Triptych 1: Madonna...'
+    content: '...puttana'
+  - headline: 'Triptych 2: Cristo...'
+    content: '...bastardo'
+  - headline: 'Triptych 3: Dio...'
+    content: '...maiale'
+---
+
+<section class="triptych">
+  {% for triptych in triptychs %}
+    {% include 'includes/card.html', 
+      headline: triptych.headline, 
+      content: triptych.content 
+    %}
+  {% endfor %}
+</section>
