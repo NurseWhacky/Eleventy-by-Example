@@ -1,0 +1,1 @@
+### Projects to learn 11ty SSG framework **by doing**

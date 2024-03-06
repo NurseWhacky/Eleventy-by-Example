@@ -1,0 +1,16 @@
+{
+    "triptychs" : [
+        {
+            "headline": "This is a beautiful doggie",
+            "content": "PHOTO OF A DOGGO"
+        },
+        {
+            "headline": "This is a Pisurcino!",
+            "content": "PHOTO OF A PISURCINO"
+        },
+        {
+            "headline": "Check out this bad bois!",
+            "content": "PHOTO OF DOGGOS AND KITTIES"
+        }
+    ]
+}

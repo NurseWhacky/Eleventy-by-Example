@@ -21,5 +21,4 @@ It can use any markdown, since we're in a markdown page. Like
     <li>second</li>
     <li>third</li>
     <li>fourth</li>
-    <li>diocane</li>
 </ol>
